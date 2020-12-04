@@ -1,2 +1,1 @@
-# density-based-two-way-trffic-control-with-iot
-It is a hardware based IoT project, in which the traffic lights are triggered based on traffic density. The person who crosses road when he's not supposed to, a notification is sent to phone.
+It is a hardware based IoT project, in which the traffic lights are triggered based on traffic density. The person who crosses road when he's not supposed to, a notification is sent to phone via IFTTT and also MIT app inventor. The hardware data is sent to Thingspeak which in turn is sent either to IFTTT or MIT app inventor which send a notification to respected authorities. 
